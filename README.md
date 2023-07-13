@@ -18,7 +18,7 @@ In our project, we start by reviewing literature and performing exploratory anal
 
 ##   Contents of the Repository:
 
-**data (folder):
+*data (folder)*:
     - train.csv: Original training dataset provided by Kaggle
     - test.csv: Original testing dataset provided by Kaggle
     - codebook.csv: Description of features found in the original training dataset 
