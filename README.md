@@ -33,7 +33,7 @@ In our project, we start by reviewing literature and performing exploratory anal
     
 **Checkpoint2b.ipynb**: *We build and test four machine learning models on our modified dataset. After evaluating their performance, we present a comparative analysis of these four models to determine the most effective approach.* 
 
-**Final_models.ipynb**: *This is our code for testing various specifications of decision tree models, comparing their performance, and selecting our final model.*
+**Final Checkpoint.ipynb**: *This is our code for testing various specifications of decision tree models, comparing their performance, and selecting our final model.*
 
 **Final_tree.png**: *A visual representation of our final random forest model.* 
 
