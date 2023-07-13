@@ -1,0 +1,142 @@
+Variable name,Variable description
+v2a1,Monthly rent payment
+hacdor,Overcrowding by bedrooms
+rooms,number of all rooms in the house
+hacapo,Overcrowding by rooms
+v14a,has toilet in the household
+refrig,if the household has refrigerator
+v18q,owns a tablet
+v18q1,number of tablets household owns
+r4h1,Males younger than 12 years of age
+r4h2,Males 12 years of age and older
+r4h3,Total males in the household
+r4m1,Females younger than 12 years of age
+r4m2,Females 12 years of age and older
+r4m3,Total females in the household
+r4t1,persons younger than 12 years of age
+r4t2,persons 12 years of age and older
+r4t3,Total persons in the household
+tamhog,size of the household
+tamviv,TamViv
+escolari,years of schooling
+rez_esc,Years behind in school
+hhsize,household size
+paredblolad,if predominant material on the outside wall is block or brick
+paredzocalo,"if predominant material on the outside wall is socket (wood, zinc or absbesto"
+paredpreb,if predominant material on the outside wall is prefabricated or cement
+pareddes,if predominant material on the outside wall is waste material
+paredmad,if predominant material on the outside wall is wood
+paredzinc,if predominant material on the outside wall is zink
+paredfibras,if predominant material on the outside wall is natural fibers
+paredother,if predominant material on the outside wall is other
+pisomoscer,#ERROR!
+pisocemento,#ERROR!
+pisoother,#ERROR!
+pisonatur,#ERROR!
+pisonotiene,#ERROR!
+pisomadera,#ERROR!
+techozinc,#ERROR!
+techoentrepiso,#ERROR!
+techocane,#ERROR!
+techootro,if predominant material on the roof is other
+cielorazo,if the house has ceiling
+abastaguadentro,if water provision inside the dwelling
+abastaguafuera,#ERROR!
+abastaguano,#ERROR!
+public,#ERROR!
+planpri,#ERROR!
+noelec,#ERROR!
+coopele,#ERROR!
+sanitario1,no toilet in the dwelling
+sanitario2,#ERROR!
+sanitario3,#ERROR!
+sanitario5,toilet connected to black hole or letrine
+sanitario6,#ERROR!
+energcocinar1,no main source of energy used for cooking (no kitchen)
+energcocinar2,main source of energy used for cooking electricity
+energcocinar3,main source of energy used for cooking gas
+energcocinar4,#ERROR!
+elimbasu1,#ERROR!
+elimbasu2,#ERROR!
+elimbasu3,#ERROR!
+elimbasu4,#ERROR!
+elimbasu5,#ERROR!
+elimbasu6,#ERROR!
+epared1,#ERROR!
+epared2,#ERROR!
+epared3,#ERROR!
+etecho1,#ERROR!
+etecho2,#ERROR!
+etecho3,#ERROR!
+eviv1,#ERROR!
+eviv2,#ERROR!
+eviv3,#ERROR!
+dis,#ERROR!
+male,#ERROR!
+female,#ERROR!
+estadocivil1,#ERROR!
+estadocivil2,#ERROR!
+estadocivil3,#ERROR!
+estadocivil4,#ERROR!
+estadocivil5,#ERROR!
+estadocivil6,#ERROR!
+estadocivil7,#ERROR!
+parentesco1,#ERROR!
+parentesco2,#ERROR!
+parentesco3,#ERROR!
+parentesco4,#ERROR!
+parentesco5,#ERROR!
+parentesco6,#ERROR!
+parentesco7,#ERROR!
+parentesco8,if father/mother in law
+parentesco9,#ERROR!
+parentesco10,#ERROR!
+parentesco11,#ERROR!
+parentesco12,#ERROR!
+idhogar,Household level identifier
+hogar_nin,Number of children 0 to 19 in household
+hogar_adul,Number of adults in household
+hogar_mayor,# of individuals 65+ in the household
+hogar_total,# of total individuals in the household
+dependency,Dependency rate
+edjefe,years of education of male head of household
+edjefa,years of education of female head of household
+meaneduc,average years of education for adults (18+)
+instlevel1,#ERROR!
+instlevel2,#ERROR!
+instlevel3,#ERROR!
+instlevel4,#ERROR!
+instlevel5,#ERROR!
+instlevel6,#ERROR!
+instlevel7,#ERROR!
+instlevel8,#ERROR!
+instlevel9,#ERROR!
+bedrooms,number of bedrooms
+overcrowding,# persons per room
+tipovivi1,#ERROR!
+tipovivi2,#ERROR!
+tipovivi3,#ERROR!
+tipovivi4,#ERROR!
+tipovivi5,#ERROR!
+computer,#ERROR!
+television,#ERROR!
+mobilephone,#ERROR!
+qmobilephone,# of mobile phones
+lugar1,region Central
+lugar2,region Chorotega
+lugar3,region PacÃƒÂ­fico central
+lugar4,region Brunca
+lugar5,region Huetar Atlantica
+lugar6,region Huetar Norte
+area1,zona urbana
+area2,zona rural
+age,Age in years
+SQBescolari,escolari squared
+SQBage,age squared
+SQBhogar_total,hogar_total squared
+SQBedjefe,edjefe squared
+SQBhogar_nin,hogar_nin squared
+SQBovercrowding,overcrowding squared
+SQBdependency,dependency squared
+SQBmeaned,meaned squared
+agesq,Age squared
