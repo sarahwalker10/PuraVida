@@ -14,20 +14,20 @@ In our project, we start by reviewing literature and performing exploratory anal
 
 ###   Contents of the Repository
 
-data (folder):
+**data (folder)**: <\n>
     o	train.csv: Original training dataset provided by Kaggle
     o	test.csv: Original testing dataset provided by Kaggle
     o	codebook.csv: Description of features found in the original training dataset 
     
-Checkpoint1.ipynb: Starting with the original dataset, we begin by reviewing the literature and exploring the data to help familiarize ourselves with the scope and direction of the project.
+**Checkpoint1.ipynb**: Starting with the original dataset, we begin by reviewing the literature and exploring the data to help familiarize ourselves with the scope and direction of the project.
 
-Checkpoint 2a.ipynb: Following from our findings in Checkpoint 1, we clean and engineer features from the original dataset into our own modified dataset. We also aggregate all individual level observations to a single household level observation in the modified dataset. 
+**Checkpoint 2a.ipynb**: Following from our findings in Checkpoint 1, we clean and engineer features from the original dataset into our own modified dataset. We also aggregate all individual level observations to a single household level observation in the modified dataset. 
 
-modified_data (folder):
-    o	modified_train.csv: Our modified dataset created and saved from Checkpoint 2a. Contains the original data aggregated at the household       level, including data cleaning and feature engineering.
+**modified_data (folder)**:
+    o	modified_train.csv: Our modified dataset created and saved from Checkpoint 2a. Contains the original data aggregated at the household level, including data cleaning and feature engineering.
     o	modified_codebook.csv: Descriptions of our feature labels in our modified dataset. Contains the features from the original data             codebook and includes descriptions for our new generated features.
     
-Checkpoint2b.ipynb: We build and test four machine learning models on our modified dataset. After evaluating their performance, we present a comparative analysis of these four models to determine the most effective approach. 
+**Checkpoint2b.ipynb**: We build and test four machine learning models on our modified dataset. After evaluating their performance, we present a comparative analysis of these four models to determine the most effective approach. 
 
 Final_models.ipynb: This is our code for testing various specifications of decision tree models, comparing their performance, and selecting our final model. 
 
