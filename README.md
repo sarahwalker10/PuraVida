@@ -1,7 +1,13 @@
 # PuraVida
-###     Costa Rica Multi-Class Poverty Prediction
+###    Costa Rica Multi-Class Poverty Prediction
 
-This team project was adopted from the kaggle competition on "Costa Rican Household Poverty Level Prediction"
+This team project was adopted from the Kaggle competition called "Costa Rican Household Poverty Level Prediction". Sponsored by the Inter-American Development Bank, this competition seeks to enhance traditional poverty prediction methods by promoting the development and application of machine learning models.
 https://www.kaggle.com/competitions/costa-rican-household-poverty-prediction
 
+###    Abstract
 
+In this study, we propose and evaluate the effectiveness of four supervised machine learning models —Gradient Boosted Decision Trees, Naive Bayes, Logistic Regression, and K-Nearest Neighbors (KNN)— in predicting poverty levels in Costa Rican households. This research aims to augment policy-making and strategic planning by offering an efficient, data-driven approach to predict the poverty levels of households and improve household well-being. This capability is particularly crucial in developing and implementing social welfare programs, where the objective is to target households experiencing varying dimensions and levels of deprivation.  
+
+The primary dataset used in this study was compiled by the Inter-American Development Bank through a proxy means test, which comprises a mix of self-reported answers concerning household composition, educational outcomes, and observable physical characteristics pertaining to their housing conditions (e.g., overcrowding, roof type), and asset ownership (computers, electronic devices, among others). The target variables are ordinal variables representing ’extreme poverty’ (4), ’overall poverty’ (3), ’vulnerable households’ (2), and ’non-vulnerable households’ (1).
+
+In our research, we start by reviewing literature and performing exploratory analysis on the provided training dataset from Kaggle. Next, we clean the data, fill appropriate null values, aggregate individual level observations to a single household level observation, and generate feature engineering. This becomes the modified dataset that we use to build and test our models moving forward. Then, we experiment with four different machine learning models to evaluate which model will be the most effective for predicting the target class.  These models were selected due to their varying characteristics and effectiveness at handling classification tasks in a diverse set of domains. Of these four models, we select decision trees and move forward to building the final model. Finally, we experiment with building decision trees based on various model specifications: feature selection (only including features with at least +/- 15% correlation to the target), SMOTE (to balance our dataset), and random forest modeling. Based on the successes and limitations of the different models in the context of the provided dataset, we conclude by choosing the Random Forest model trained on selected features from the SMOTE balanced dataset as our final model.
