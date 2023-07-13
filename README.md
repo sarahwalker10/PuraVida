@@ -18,7 +18,7 @@ In our project, we start by reviewing literature and performing exploratory anal
 
 ##   Contents of the Repository:
 
-kaggle_data (folder):
+**kaggle_data (folder)**:
 * **train.csv**: *Original training dataset provided by Kaggle*
 * **test.csv**: *Original testing dataset provided by Kaggle*
 * **codebook.csv**: *Description of features found in the original training dataset*
@@ -27,7 +27,7 @@ kaggle_data (folder):
 
 **Checkpoint 2a.ipynb**: *Following from our findings in Checkpoint 1, we clean and engineer features from the original dataset into our own modified dataset. We also aggregate all individual level observations to a single household level observation in the modified dataset.* 
 
-modified_data (folder):
+**modified_data (folder)**:
 * **modified_train.csv**: *Our modified dataset created and saved from Checkpoint 2a. Contains the original data aggregated at the household level, including data cleaning and feature engineering.*
 * **modified_codebook.csv**: *Descriptions of our feature labels in our modified dataset. Contains the features from the original data             codebook and includes descriptions for our new generated features.*
     
